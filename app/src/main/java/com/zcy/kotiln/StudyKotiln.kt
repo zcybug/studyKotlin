@@ -23,4 +23,5 @@ fun printSum(a: Int, b: Int): Unit {
 fun main(args:Array<String>) {
     print("sum of 3 and 5 is ")
     println(sum(3, 5))
+    printSum(-1, 8)
 }
